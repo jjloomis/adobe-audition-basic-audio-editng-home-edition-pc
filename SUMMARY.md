@@ -4,7 +4,7 @@
 
 * [Intoduction](README.md)
 
-## Installing Adobe Audition
+## Installing Audition on your PC
 
 * [Checking if your computer meets minimum system requirements](installing-adobe-audition/checking-if-your-computer-meets-minimum-system-requirements.md)
 * [Installing Audition](installing-adobe-audition/installing-audition.md)

@@ -4,6 +4,10 @@
 
 * [Intoduction](README.md)
 
+## Installing Adobe Audition
+
+* [Checking if your computer meets minimum system requirements](installing-adobe-audition/checking-if-your-computer-meets-minimum-system-requirements.md)
+
 ## Listening and Logging
 
 * [Connecting to Your Class Folder](connecting-to-your-class-folder.md)

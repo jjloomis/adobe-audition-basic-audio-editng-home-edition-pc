@@ -7,6 +7,7 @@
 ## Installing Adobe Audition
 
 * [Checking if your computer meets minimum system requirements](installing-adobe-audition/checking-if-your-computer-meets-minimum-system-requirements.md)
+* Installing Audition
 
 ## Listening and Logging
 

@@ -57,3 +57,10 @@
 
 * [Glossary](GLOSSARY.md)
 
+## Submitting your work
+
+* [Creating a Google Account](submitting-your-work/creating-a-google-account.md)
+* [Signing in to your Google Account](submitting-your-work/signing-in-to-your-google-account.md)
+* [Uploading your project folder to Google Drive](submitting-your-work/uploading-your-project-folder-to-google-drive.md)
+* [Creating a shareable link to your project folder on Google Drive](submitting-your-work/creating-a-shareable-link-to-your-project-folder-on-google-drive.md)
+

@@ -1,7 +1,7 @@
 # Opening Audition
 
 1. On your PC, click the **Start** button. 
-2. In the fly-out menu, select **Adobe Audition**. test.
+2. In the fly-out menu, select **Adobe Audition**.
 
 ![](/assets/start-menu.png)
 

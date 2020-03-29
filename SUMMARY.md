@@ -24,7 +24,6 @@
 * [Zooming In and Out](listening-and-logging/zooming-in-out.md)
 * [Adding Range Markers to a WAV File](listening-and-logging/adding-range-markers-to-wav-file.md)
 * [Saving a WAV File with Range Markers](listening-and-logging/saving-wav-file-with-range-markers.md)
-* [Displaying file extensions](listening-and-logging/displaying-file-extensions.md)
 
 ## Editing
 

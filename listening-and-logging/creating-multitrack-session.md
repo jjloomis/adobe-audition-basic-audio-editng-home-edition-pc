@@ -11,5 +11,5 @@ When you create a multitrack session \(SESX file\), Audition automatically creat
 
 4. When finished, click **OK**.
 
-![Creating a Multitrack Session.](/assets/creating-multitrack-session.png)
+![](/assets/creating-a-new-multitrack-session.png)
 

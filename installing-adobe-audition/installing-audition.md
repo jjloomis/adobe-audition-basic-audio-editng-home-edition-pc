@@ -10,9 +10,13 @@
 
 7. After the download process is complete, double-click the EXE file \(it may be in your **Downloads** folder.\) If you are prompted with a dialog box asking if you want to allow this app to make changes to your device, click **Yes**.
 
-8. Proceed through all of the installation steps. 
+8. Proceed through all of the installation steps.
 
 9. When installation is complete, **Audition** will appear in the **Start** menu on your PC.
+
+![](/assets/downloading-audition.png)
+
+
 
 
 

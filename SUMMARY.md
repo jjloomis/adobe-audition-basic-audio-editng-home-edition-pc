@@ -14,6 +14,7 @@
 * [Opening Audition](listening-and-logging/opening-audition.md)
 * [Creating a Multitrack Session](listening-and-logging/creating-multitrack-session.md)
 * [Opening an Existing Multitrack Session](open-an-existing-multitrack-session.md)
+* [Displaying file extensions](listening-and-logging/displaying-file-extensions.md)
 * [Copying WAV Files From a Zoom to Your Project Folder](listening-and-logging/copying-wav-files-into-project-folder.md)
 * [Downloading Media Files From YouTube to Your Project Folder](downloading-media-files-from-youtube-to-your-project-folder.md)
 * [Downloading Free Music Into Your Project Folder](downloading-media-files-from-youtube-to-your-project-folder/downloading-free-music-into-your-project-folder.md)
@@ -23,7 +24,6 @@
 * [Zooming In and Out](listening-and-logging/zooming-in-out.md)
 * [Adding Range Markers to a WAV File](listening-and-logging/adding-range-markers-to-wav-file.md)
 * [Saving a WAV File with Range Markers](listening-and-logging/saving-wav-file-with-range-markers.md)
-* [Exporting Audio of Range Markers](listening-and-logging/exporting-audio-of-range-markers.md)
 * [Displaying file extensions](listening-and-logging/displaying-file-extensions.md)
 
 ## Editing

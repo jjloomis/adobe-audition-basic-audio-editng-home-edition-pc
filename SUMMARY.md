@@ -24,6 +24,7 @@
 * [Adding Range Markers to a WAV File](listening-and-logging/adding-range-markers-to-wav-file.md)
 * [Saving a WAV File with Range Markers](listening-and-logging/saving-wav-file-with-range-markers.md)
 * [Exporting Audio of Range Markers](listening-and-logging/exporting-audio-of-range-markers.md)
+* [Displaying file extensions](listening-and-logging/displaying-file-extensions.md)
 
 ## Editing
 
@@ -63,5 +64,4 @@
 ## Glossary
 
 * [Glossary](GLOSSARY.md)
-
 

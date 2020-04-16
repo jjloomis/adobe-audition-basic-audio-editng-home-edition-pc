@@ -8,7 +8,5 @@
 6. A dialog box may appear asking if you want to upload all of the files in the folder to Google Drive. Click **Upload** to start the upload process
 7. A box in the lower-right corner of screen will display the upload progess. \(**Note**: Upload times will vary due to file size and network speed.\)
 
-
-
-
+![](/assets/uploading-a-project-folder-mac.png)
 

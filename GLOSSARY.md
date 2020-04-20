@@ -30,7 +30,7 @@ Peak files that help display waveforms. Ignore these files.
 
 ## Project folder
 
-Folder that contains SESX file and all WAV files associated with your project.
+Main project folder that contains all the files associated with your project. 
 
 ## SESX
 

@@ -10,9 +10,5 @@
 8. Proceed through all of the installation steps.
 9. When installation is complete, **Audition** will appear in the **Start** menu on your PC.
 
-![](/assets/downloading-audition.png)
-
-
-
-
+![](../.gitbook/assets/downloading-audition.png)
 

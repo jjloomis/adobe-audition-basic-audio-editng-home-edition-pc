@@ -1,4 +1,4 @@
-# Automating track volume with keyframes
+# Automating Track Volume with Keyframes
 
 Specific areas of your sound bites can be set to automatically become louder or softer in volume as your project plays in the Multitrack Session. This automation process is not always necessary, but it is an option if want to create dynamic volume fluctuations at certain points of your project.
 
@@ -12,5 +12,5 @@ To automate the volume of an audio track, you can add keyframes to your sound bi
 6. To delete a keyframe, click it on the yellow volume bar. The keyframe will appear highlighted. 
 7. Press the **Delete** key \(on keyboard.\)
 
-![](/assets/adding-keyframes.png)
+![](../.gitbook/assets/adding-keyframes.png)
 

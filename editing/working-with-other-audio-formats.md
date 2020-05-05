@@ -13,7 +13,5 @@ Note: Audition may create a Conformed-Files folder within your project folder. D
 7. Switch back to your Multitrack Session. 
 8. Add your sound bite audio files to tracks in your Multitrack Session.
 
-![](/assets/mp3-in-project-folder.png)
-
-
+![](../.gitbook/assets/mp3-in-project-folder.png)
 

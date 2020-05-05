@@ -6,7 +6,5 @@ Some computers do not display file extensions \(.wav, .mp3, etc.\) by default. I
 2. Make sure **List** is selected.
 3. Click the checkbox next to **File name extensions** to display file extensions.
 
-![](/assets/displaying-file-extensions.png)
-
-
+![](../.gitbook/assets/displaying-file-extensions.png)
 

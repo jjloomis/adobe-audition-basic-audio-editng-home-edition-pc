@@ -6,7 +6,7 @@ Network storage area for multimedia projects.
 
 ## Conformed-Files
 
-Folder that contains [transcoded](https://en.wikipedia.org/wiki/Transcoding "Transcoding on Wikipedia") audio files that match your multitrack session settings. Do not delete or move the files in this folder.
+Folder that contains [transcoded](https://en.wikipedia.org/wiki/Transcoding) audio files that match your multitrack session settings. Do not delete or move the files in this folder.
 
 ## EXE
 
@@ -30,7 +30,7 @@ Peak files that help display waveforms. Ignore these files.
 
 ## Project folder
 
-Main project folder that contains all the files associated with your project. 
+Main project folder that contains all the files associated with your project.
 
 ## SESX
 

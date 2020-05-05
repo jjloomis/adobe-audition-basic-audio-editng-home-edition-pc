@@ -1,23 +1,25 @@
-# Summary
+# Table of contents
+
+* [Introduction](README.md)
 
 ## Introduction
 
-* [Intoduction](README.md)
+* [Intoduction](introduction/readme.md)
 
 ## Installing Audition on your PC
 
-* [Checking if your computer meets minimum system requirements](installing-adobe-audition/checking-if-your-computer-meets-minimum-system-requirements.md)
-* [Installing Audition](installing-adobe-audition/installing-audition.md)
+* [Checking if your computer meets minimum system requirements](installing-audition-on-your-pc/checking-if-your-computer-meets-minimum-system-requirements.md)
+* [Installing Audition](installing-audition-on-your-pc/installing-audition.md)
 
 ## Listening and Logging
 
 * [Opening Audition](listening-and-logging/opening-audition.md)
 * [Creating a Multitrack Session](listening-and-logging/creating-multitrack-session.md)
-* [Opening an Existing Multitrack Session](open-an-existing-multitrack-session.md)
+* [Opening an Existing Multitrack Session](listening-and-logging/open-an-existing-multitrack-session.md)
 * [Displaying file extensions](listening-and-logging/displaying-file-extensions.md)
 * [Copying WAV Files From a Zoom to Your Project Folder](listening-and-logging/copying-wav-files-into-project-folder.md)
-* [Downloading Media Files From YouTube to Your Project Folder](downloading-media-files-from-youtube-to-your-project-folder.md)
-* [Downloading Free Music Into Your Project Folder](downloading-media-files-from-youtube-to-your-project-folder/downloading-free-music-into-your-project-folder.md)
+* [Downloading Media Files From YouTube to Your Project Folder](listening-and-logging/downloading-media-files-from-youtube-to-your-project-folder.md)
+* [Downloading Free Music Into Your Project Folder](listening-and-logging/downloading-free-music-into-your-project-folder.md)
 * [Importing WAV Files Into Audition](listening-and-logging/importing-wav-files.md)
 * [Listening to Your Audio in the Waveform Editor](listening-and-logging/listening-to-wav-files-in-waveform-editor.md)
 * [Raising or Lowering the Audio Level of a WAV File](listening-and-logging/raising-or-lowering-wav-file-audio-level.md)
@@ -39,7 +41,7 @@
 * [Switching Between Waveform Editor and Multitrack Session](editing/switching-between-waveform-editor-and-multitrack-session.md)
 * [Saving All of Your Work](editing/saving-all-of-your-work.md)
 * [Working with Additional WAV Files](editing/working-with-additional-audio-files.md)
-* [Working with Other Audio Formats](working-with-other-audio-formats.md)
+* [Working with Other Audio Formats](editing/working-with-other-audio-formats.md)
 * [Moving Multiple Sound Bites](editing/moving-multiple-sound-bites.md)
 * [Recording Narration with Zoom H2N](editing/recording-narration-with-zoom-h2n.md)
 * [Adding Narration to Your Project](editing/adding-narration.md)
@@ -61,9 +63,9 @@
 
 ## Troubleshooting
 
-* [Warning Boxes: What to Click](warning-boxes.md)
+* [Warning Boxes: What to Click](troubleshooting/warning-boxes.md)
 
 ## Glossary
 
-* [Glossary](GLOSSARY.md)
+* [Glossary](glossary/glossary.md)
 

@@ -1,6 +1,8 @@
 # Recording Narration with Zoom H2N
 
-When the script is complete and your instructor has reviewed it, you’re ready to record narration.
+\(If your story does not include narration, skip this step.\)
+
+If you’re working on a project that requires narration, you will record that narration after your script is complete and your instructor has reviewed it.
 
 Use the Zoom H2n to record your narration just as you would use it to interview someone else.
 
@@ -15,3 +17,4 @@ When you’re done, stop the recorder and follow Zoom instructions for transferr
 Add range markers to the Narration file just as you would to an interview, highlighting the “keeper” chunks of narration that match your script.
 
 Follow instructions for exporting audio of range markers.
+

@@ -15,4 +15,3 @@ When you’re done, stop the recorder and follow Zoom instructions for transferr
 Add range markers to the Narration file just as you would to an interview, highlighting the “keeper” chunks of narration that match your script.
 
 Follow instructions for exporting audio of range markers.
-
